@@ -2,3 +2,8 @@ site_name: Grade 5 & 6 Lesson Plans
 
 theme:
   name: material
+
+nav:
+  - Home: index.md
+  - Templates:
+      - Lesson: lesson-templates/lesson.md
