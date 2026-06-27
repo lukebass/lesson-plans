@@ -1,9 +1,25 @@
 site_name: Grade 5 & 6 Lesson Plans
+repo_url: https://github.com/lukebass/lesson-plans
+site_url: https://lukebass.github.io/lesson-plans/
 
 theme:
   name: material
 
 nav:
   - Home: index.md
-  - Templates:
-      - Lesson: lesson-templates/lesson.md
+  - English Language Arts:
+      - Unit 1: english/unit1.md
+  - Mathematics:
+      - Unit 1: mathematics/unit1.md
+  - Science:
+      - Unit 1: science/unit1.md
+  - Social Studies:
+      - Unit 1: socials/unit1.md
+  - Physical and Health Education:
+      - Unit 1: phe/unit1.md
+  - Arts Education:
+      - Unit 1: arts/unit1.md
+  - Applied Design, Skills, and Technologies:
+      - Unit 1: adst/unit1.md
+  - Career Education:
+      - Unit 1: career/unit1.md
